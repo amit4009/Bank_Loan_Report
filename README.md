@@ -1,11 +1,8 @@
-"# Bank_Loan_Report" 
 
 # Bank Loan Report Project
 This project presents an interactive dashboard for analyzing loan application data. The dashboard provides insights into various aspects of bank loans, including application counts, funded and received amounts, interest rates, loan purposes, and risk analysis. The data is analyzed through SQL queries, and the results are visualized to support decision-making and reporting.
 
-
 [Link to powerBI dashboard](https://app.powerbi.com/links/SD74Sak5j-?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare) 
-
 
 ## Project Overview
 <br>The Bank Loan Report project is designed to assist financial institutions in monitoring and analyzing loan application data. It allows users to track the volume of loan applications, the amount funded and received, the average interest rate, and the Debt-to-Income (DTI) ratio. The data is segmented by various factors like loan purpose, homeownership status, employee length, and more, providing a comprehensive view of the loan portfolio.
@@ -36,13 +33,13 @@ Good and Bad Loan Distribution: Segmentation of loans into 'Good' (fully paid or
 
 The Summary Dashboard provides an overview of key metrics:
 
-Total Loan Application, Total Funded Amount, and Total Amount Received with month-over-month and month-to-date breakdowns.
+**Total Loan Application**, Total Funded Amount, and Total Amount Received with month-over-month and month-to-date breakdowns.
 
-Average Interest Rate and Average DTI Ratio.
+**Average Interest** Rate and Average DTI Ratio.
 
-Good Loan Issued and Bad Loan Issued segments displayed with percentages and amounts.
+**Good Loan Issued and Bad Loan** Issued segments displayed with percentages and amounts.
 
-Loan Status Table showing counts, funded amounts, and received amounts for fully paid, charged-off, and current loans.
+**Loan Status Table** showing counts, funded amounts, and received amounts for fully paid, charged-off, and current loans.
 
 
 **2. Overview Dashboard**
@@ -89,8 +86,11 @@ Amount Received: Total amount received for each loan.
 The dashboard includes filters that allow users to drill down on specific dimensions, such as:
 
 **State:** Filter by applicant's state of residence.
+
 **Grade:** Filter by loan grade.
+
 **Purpose:** Filter by loan purpose.
+
 **Good vs. Bad Loan:** Filter to view only good or bad loans.
 
 ## Technology Stack
@@ -103,7 +103,7 @@ The project is built with the following technologies:
 
 ## Setup and Usage
 
-To use the Bank Loan Report dashboard:
+**To use the Bank Loan Report dashboard:**
 
 Import the bank_loan_data table into your SQL database.
 
@@ -120,8 +120,11 @@ Use the filters to explore data by different dimensions as per the analysis need
 Potential enhancements for this project could include:
 
 **Predictive Modeling:** Adding machine learning models to predict loan default risk.
+
 **Automated Data Refresh:** Scheduling automatic data updates for real-time insights.
+
 **Interactive Data Drill-Downs:** Enabling users to click through visual elements for more detailed views.
+
 **Additional KPIs:** Incorporating more financial health indicators, such as profit margins and return on investment for loans.
 
 ## Acknowledgments
