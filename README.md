@@ -3,6 +3,10 @@
 # Bank Loan Report Project
 This project presents an interactive dashboard for analyzing loan application data. The dashboard provides insights into various aspects of bank loans, including application counts, funded and received amounts, interest rates, loan purposes, and risk analysis. The data is analyzed through SQL queries, and the results are visualized to support decision-making and reporting.
 
+
+[Link to powerBI dashboard](https://app.powerbi.com/links/SD74Sak5j-?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare) 
+
+
 ## Project Overview
 <br>The Bank Loan Report project is designed to assist financial institutions in monitoring and analyzing loan application data. It allows users to track the volume of loan applications, the amount funded and received, the average interest rate, and the Debt-to-Income (DTI) ratio. The data is segmented by various factors like loan purpose, homeownership status, employee length, and more, providing a comprehensive view of the loan portfolio.
 </br>
@@ -60,6 +64,8 @@ The Overview Dashboard offers a deeper breakdown by various dimensions:
 **Loan Applications by Home Ownership:** Segmentation based on homeownership status (Rent, Mortgage, Own).
 
 **3. Details Dashboard**
+
+![Details](Dashboard/DETAILS.png)
 
 The Details Dashboard provides a granular view of individual loans, showing attributes such as:
 
