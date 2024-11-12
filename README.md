@@ -28,7 +28,7 @@ Good and Bad Loan Distribution: Segmentation of loans into 'Good' (fully paid or
 ## Dashboard Structure
 1. **Summary Dashboard**
 
-![Summary](E:\MLproject2\Bank_Loan_Report\Dashboard\SUMMARY.png)
+![Summary](Dashboard\SUMMARY.png)
 
 The Summary Dashboard provides an overview of key metrics:
 
@@ -39,6 +39,7 @@ Average Interest Rate and Average DTI Ratio.
 Good Loan Issued and Bad Loan Issued segments displayed with percentages and amounts.
 
 Loan Status Table showing counts, funded amounts, and received amounts for fully paid, charged-off, and current loans.
+
 
 **2. Overview Dashboard**
 The Overview Dashboard offers a deeper breakdown by various dimensions:
@@ -55,7 +56,7 @@ The Overview Dashboard offers a deeper breakdown by various dimensions:
 
 **Loan Applications by Home Ownership:** Segmentation based on homeownership status (Rent, Mortgage, Own).
 
-3. ## Details Dashboard
+**3. Details Dashboard**
 
 The Details Dashboard provides a granular view of individual loans, showing attributes such as:
 
