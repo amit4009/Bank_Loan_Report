@@ -28,7 +28,7 @@ Good and Bad Loan Distribution: Segmentation of loans into 'Good' (fully paid or
 ## Dashboard Structure
 1. **Summary Dashboard**
 
-![Summary](Dashboard\SUMMARY.png)
+![Summary](Dashboard/SUMMARY.png)
 
 The Summary Dashboard provides an overview of key metrics:
 
@@ -43,7 +43,7 @@ Loan Status Table showing counts, funded amounts, and received amounts for fully
 
 **2. Overview Dashboard**
 
-![Overview](E:\MLproject2\Bank_Loan_Report\Dashboard\OVERVIEW.png)
+![Overview](Dashboard/OVERVIEW.png)
 
 The Overview Dashboard offers a deeper breakdown by various dimensions:
 
