@@ -42,6 +42,9 @@ Loan Status Table showing counts, funded amounts, and received amounts for fully
 
 
 **2. Overview Dashboard**
+
+![Overview](E:\MLproject2\Bank_Loan_Report\Dashboard\OVERVIEW.png)
+
 The Overview Dashboard offers a deeper breakdown by various dimensions:
 
 **Loan Applications by Month:** Trend of loan applications throughout the year.
